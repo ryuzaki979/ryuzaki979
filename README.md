@@ -1,12 +1,7 @@
-<p align="center">
-    <img width="250"  src="https://avatars.githubusercontent.com/ryuzaki979">
-</p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
-
 
 
 <div size='20px'> Hi! My name is Samir. Thank You for taking the time to view my GitHub Profile :smile: 
